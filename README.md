@@ -1,6 +1,6 @@
 <a href=""><img src="" alt="" border="0"></a>
 <div align="center">
-        <img src="IMG_20211113_143650_434.jpg" alt="GIF" width="250" height="200"/>
+        <img src="KITTUNI.jpg" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
