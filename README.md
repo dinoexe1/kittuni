@@ -1,4 +1,4 @@
-<a href="https://bit.ly/3koZRGY"><img src="" alt="google-font" border="0"></a>
+<a href=""><img src="" alt="google-font" border="0"></a>
 <div align="center">
         <img src="IMG_20211113_143650_434.jpg" alt="GIF" width="250" height="200"/>
 </p>
