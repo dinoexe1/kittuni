@@ -123,12 +123,12 @@ By establishing the kittuni, you are deemed to have accepted these responsibilit
     
   [![dinoexe1](https://github.com/dinoexe1.png?size=100)](https://github.com/dinoexe1) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-[Ameer Suhail](https://github.com/dinoexe1) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[KITTUNI](https://github.com/dinoexe1) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributors
-`Ameer Suhail`
+`KITTUNI`
 `Afnanplk`
 `Cyberchekuthan`
 `Farhan-Dqz`
