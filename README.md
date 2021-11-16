@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![kittuni](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+kittuni+WA+Bot+repo;Created+by+Ameer+Suhail;This+is+the+Best++Bgm+bot;With+more+features)](https://GitHub.com/dinoexe1)
+## [![kittuni](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+kittuni+WA+Bot+repo;Created+by+Kittuni;This+is+the+Best++Bgm+bot;With+more+features)](https://GitHub.com/dinoexe1)
 
  </a>
 </p>
