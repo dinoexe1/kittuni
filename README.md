@@ -68,7 +68,7 @@ Click kittuni logo to Join Support Group 2👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@dinoexe1/Kittuni-2?v=1)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@dinoexe1/DINO-EXE-QR?v=1)
 
 [![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/dinoexe1/kittuni.git)
      </div>
